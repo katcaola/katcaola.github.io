@@ -1,3 +1,10 @@
 _site
 .sass-cache
 .jekyll-metadata
+.DS_Store
+max.css
+2011*.md
+_oldPosts/
+_nope*
+mog*png
+Kat*png

@@ -1,0 +1,51 @@
+---
+sitemap: false
+---
+
+/*
+ *
+ *  HPSTR
+ *
+ *  Designer: Michael Rose
+ *  Twitter: http://twitter.com/mmistakes
+ *
+*/
+
+// Partials
+@import "variables";
+@import "mixins";
+@import "reset";
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/magnific-popup/magnific-popup";
+@import "site";
+@import "typography";
+@import "syntax";
+// @import "coderay";
+@import "grid";
+@import "elements";
+@import "animations";
+@import "dl-menu";
+@import "page";
+
+// Override translucent header text
+.header-title h1 {
+    margin: 10px 20px;
+    font-weight: 700;
+    font-size: 32px;
+    font-size: 2rem;
+    // color: rgba(85, 85, 85, 1);
+    color: white;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(34,34,34,0.6); 
+}
+.header-title h2 {
+    margin: 0;
+    font-size: 18px;
+    font-size: 1.125rem;
+    text-transform: uppercase;
+    // color: rgba(136, 136, 136, 1);
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(34,34,34,0.6);
+}
