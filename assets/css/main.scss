@@ -27,6 +27,8 @@ sitemap: false
 @import "dl-menu";
 @import "page";
 
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
 // Override translucent header text
 .header-title h1 {
     margin: 10px 20px;
@@ -35,7 +37,8 @@ sitemap: false
     font-size: 2rem;
     // color: rgba(85, 85, 85, 1);
     color: white;
-    font-weight: 700;
+    text-transform: lowercase;
+    font-weight: 7;
     color: #fff;
     text-shadow: 1px 1px 4px rgba(34,34,34,0.6); 
 }
