@@ -1,32 +1,31 @@
 ---
 layout: page
-title: About the Jekyll Theme
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: About the Invéntory Blog
 comments: false
-modified: 2016-02-01
+modified: 2017-05-14
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+# Updates Weekly - Monday and Thursdays
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+# Topics Discussed:
+- Programming and code stuff
+- Japan, Anime, Japanese
+- Ideas that my brain came up with all by itself
+- Miniature cooking items
+- Miniature and/or Japanese food
+- Moogles. Definitely moogles. 
+- Crafts of all kinds:
+    - Chain mail
+    - Paper Craft
+    - Perler Beads
+    - Cross stitching
+    - Sewing
+    - Upcycled materials
+- There will be Puns. Bad Puns. Terrible Puns.
+- Music ponderings
+- [#16a2b0](https://www.google.com/search?q=%239a5b84&oq=%239a5b84&aqs=chrome..69i57.635j0j4&sourceid=chrome&ie=UTF-8#q=%2316a2b0) and things I own that are (or around)  color said color
+- ... and more!
 
-## HPSTR Features:
+# Backstorey for the Blog Name
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Way back when I was a youngin' in highschool, I went to see _Wall-e_ in theaters. When the credits began rolling, I read off some of the names and positions. I was watching with my partner at the time and we would have contests to see how many names we could find that were similar to names of people we knew. One of the sections I read out loud as "The Invéntory" and commented, "Wow that's so cool! I bet that's where they come up with all sorts of cool and novel ideas and implementations" and my partner turned to me and said "Kat, that's _Inventory_" and we proceeded to laugh about it. I never was good at pronouncing things...

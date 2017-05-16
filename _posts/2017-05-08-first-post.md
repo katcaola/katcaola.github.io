@@ -30,7 +30,7 @@ I come up with ideas left and right, and taking a page from [Paul Arden](https:/
     - Upcycled materials
 - There will be Puns. Bad Puns. Terrible Puns.
 - Music ponderings
-- [#16a2b0](https://www.google.com/search?q=%239a5b84&oq=%239a5b84&aqs=chrome..69i57.635j0j4&sourceid=chrome&ie=UTF-8#q=%2316a2b0) and things I own that are (or around)  color said color
+- [#16a2b0](https://www.google.com/search?q=%239a5b84&oq=%239a5b84&aqs=chrome..69i57.635j0j4&sourceid=chrome&ie=UTF-8#q=%2316a2b0){:target="_blank"} and things I own that are (or around)  color said color
 - ... and more!
  
     
