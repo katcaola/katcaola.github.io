@@ -2,16 +2,10 @@
 layout: post
 title: "Memory Lego"
 description: "A fix for those who are not the best at remembering"
-tags: [idea, lego, mnemonic device, collecting, helpful] 
+tags: [idea, lego, mnemonic device, helpful, computer science, programming] 
 image:
-  feature: https://s-media-cache-ak0.pinimg.com/originals/d4/d0/53/d4d053590874b35f1002edf5836dca47.png
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: https://s-media-cache-ak0.pinimg.com/originals/6f/86/84/6f868405b5d1d6b533a84d9ffececf4e.png
 ---
-<figure>
-	<img src="https://s-media-cache-ak0.pinimg.com/originals/be/07/aa/be07aa3233c8ad19469d2e67bcf41cc0.png" alt="">
-	<figcaption>An alternative use for a lego</figcaption>
-</figure>
 
 I love my partner. 
 

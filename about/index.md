@@ -3,6 +3,10 @@ layout: page
 title: About the Invéntory Blog
 comments: false
 modified: 2017-05-14
+image:
+  feature: "https://s-media-cache-ak0.pinimg.com/originals/d4/d0/53/d4d053590874b35f1002edf5836dca47.png"
+  credit: dargadgetz
+  creditlink: "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
 ---
 
 # Updates Weekly - Monday and Thursdays
